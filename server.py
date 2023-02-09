@@ -24,7 +24,7 @@ def handle_info():
     print("INFO")
     return {
         "apiversion": "1",
-        "author": "ScyMarshall",
+        "author": "",
         "color": "#FF2509",
         "head": "silly",
         "tail": "skinny",
